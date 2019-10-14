@@ -3,6 +3,7 @@
 ## Installation
 
 ```bash
+git clone https://github.com/aynomjb/mySearchEngine.git
 cd mySearchEngine
 npm install
 node serve

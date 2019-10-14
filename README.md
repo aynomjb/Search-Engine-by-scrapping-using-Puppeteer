@@ -1,9 +1,16 @@
 # mySearchEngine
 
+## Installation
+
+```bash
 cd mySearchEngine
-
 npm install
-
 node serve
+```
 
-will serve @ http://localhost
+## Test
+
+will serve at http://localhost
+
+URL: http://ec2-18-222-214-169.us-east-2.compute.amazonaws.com/
+
